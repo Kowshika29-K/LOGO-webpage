@@ -23,17 +23,12 @@ display: flex;
 margin-left: 55px;
 margin-top: 15px;
 }
-ul{
-    display: inline-flex;
-align-items: flex-start;
-gap: 88px;
-position: absolute;
-left: 620px;
-}
 .menu ul{
     display: inline-flex;
     gap: 82px;
     list-style-type: none;
+    position: absolute;
+left: 620px;
 }
 .menu a{
     text-decoration: none;
